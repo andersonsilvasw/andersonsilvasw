@@ -1,4 +1,4 @@
-### Olá, Eu sou o Anderson Silva! 👋
+### Hello, I am Anderson Silva! 👋
 
 - 🌱 I’m currently learning Java
 - 📫 You can reach me: andersonsilvaedif@hotmail.com
