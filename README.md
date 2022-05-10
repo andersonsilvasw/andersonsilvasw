@@ -11,10 +11,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Anderson-Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=130&color=currentColor">
-  <img align="center" alt="Anderson-Git" height="30" width="40" src="https://icongr.am/devicon/git-original-wordmark.svg?size=130&color=currentColor">
-  <img align="center" alt="Anderson-Git" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Anderson-Git" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Anderson-JAVA" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=130&color=currentColor">
+  <img align="center" alt="Anderson-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor">
 </div>  
   
   ##
