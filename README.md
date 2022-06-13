@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning Java
 - 📫 You can reach me: andersonsilvaedif@hotmail.com
+- 👨‍🎓 System Analysis and Development (1º Semester)
 
 <div align="center">
   <a href="https://github.com/andersonsilvasw">
