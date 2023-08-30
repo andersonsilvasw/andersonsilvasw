@@ -18,10 +18,7 @@
   <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor">
 </div>  
   
-  ##
-  
 <div> 
- 
   <a href="https://instagram.com/andersonsilvadev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:andersonsilvaing@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andersonsilvasw/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
