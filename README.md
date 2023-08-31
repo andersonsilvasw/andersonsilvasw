@@ -1,6 +1,6 @@
 ### Hello, I am Anderson Silva! 👋
 
-- 🌱 I am currently learning Java
+- 🌱 I have been learning Java
 - 📫 You can reach me: andersonsilvaedif@hotmail.com
 - 👨‍🎓 System Analysis and Development (3º Semester)
 
