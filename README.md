@@ -2,7 +2,7 @@
 
 - 🌱 I have been learning Java
 - 📫 You can reach me: andersonsilvaedif@hotmail.com
-- 👨‍🎓 System Analysis and Development (3º Semester)
+- 👨‍🎓 System Analysis and Development (4º Semester)
 
 <div align="center">
   <a href="https://github.com/andersonsilvasw">
